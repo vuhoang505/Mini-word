@@ -1,0 +1,24 @@
+## Visual Studio build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build artifacts
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+packages/
+TestResults/
+
+## OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
